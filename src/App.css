@@ -1,3 +1,5 @@
+/* Teste */
+
 #root {
   width: 100vw;
   height: 100vh;
@@ -12,4 +14,8 @@ body {
 
 body:active {
   cursor: grabbing;
+}
+
+img {
+  cursor: auto;
 }
