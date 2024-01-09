@@ -1,5 +1,4 @@
 # projeto-3d
-# projeto-3d
 ![git](https://github.com/ArthurGuti/projeto-3d/assets/131212175/06817cac-d0f0-4ba1-88b3-d4e80c3f70a7)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f3da937e-4566-4b6f-b223-516d5b63cccd/deploy-status)](https://app.netlify.com/sites/project3d-arthur/deploys)
 
@@ -77,4 +76,3 @@ Feito por Arthur Gutierrez 👋🏽 Entre em contato!
 <br/>
 
 ![Linkedin Badge](https://img.shields.io/badge/-ArthurDev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/arthur-gutierrez-de-oliveira-dev2110)
-# projeto-3d
