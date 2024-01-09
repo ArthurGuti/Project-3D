@@ -1,3 +1,4 @@
+![git](https://github.com/ArthurGuti/Project-3D/assets/131212175/67dca253-fc4b-4a87-905f-287a1eb738bb)
 # React Project 3D 
 ## 💻 Construido no intuito de aprender mais sobre: react-three/fiber e react-three/dier. Libs que auxiliam o uso de modelos 3D em WebSites! 
 
