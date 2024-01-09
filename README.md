@@ -1,18 +1,16 @@
-# projeto-3d
-![git](https://github.com/ArthurGuti/projeto-3d/assets/131212175/06817cac-d0f0-4ba1-88b3-d4e80c3f70a7)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f3da937e-4566-4b6f-b223-516d5b63cccd/deploy-status)](https://app.netlify.com/sites/project3d-arthur/deploys)
-
 # React Project 3D 
-## 💻 Feito no intuito de aprender mais sobre: react-three/fiber e react-three/dier. Libs que auxiliam o uso de modelos 3D! 
+## 💻 Construido no intuito de aprender mais sobre: react-three/fiber e react-three/dier. Libs que auxiliam o uso de modelos 3D em WebSites! 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/dev%20-%20Arthur%20-%20Gutierrez?color=%23907bf2&link=www.linkedin.com%2Fin%2Farthur-gutierrez-de-oliveira-dev2110">
+<img alt="Static Badge" src="https://img.shields.io/badge/dev%20-%20Arthur%20-%20Gutierrez?color=%23907bf2&link=www.linkedin.com%2Fin%2Farthur-gutierrez-de-oliveira-dev2110"> <br> 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f3da937e-4566-4b6f-b223-516d5b63cccd/deploy-status)](https://app.netlify.com/sites/project3d-arthur/deploys)
 
 <p align="center">
  <a href="#features"> 👉 Features</a> •
  <a href="#pré-requisitos"> 👉 Pré-requisitos</a> • 
  <a href="#tecnologias"> 👉 Tecnologias</a> • 
  <a href="#autor">👉 Autor</a> •
- <a href="#saiba-mais">👉 Saiba mais</a>
+ <a href="#saiba-mais">👉 Saiba mais</a>•
+ <a href="#english">👉 English</a>
 </p>
 
 <h4 align="center"> 
@@ -68,7 +66,9 @@ Se você está começando com React Three Fiber ou React Three Drei, aqui estão
 
 # 🧑‍💻Autor
 <a href="https://github.com/ArthurGuti/">
-<img  style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/131212175?s=400&u=ad1122209b601713ba611d911af19ade07d17c6f&v=4" width="100px;" alt="Imagem perfil Arthur Gutierrez"/>
+<div style="border-radius: 25%;">
+  <img src="https://avatars.githubusercontent.com/u/131212175?s=400&u=ad1122209b601713ba611d911af19ade07d17c6f&v=4" width="100px" alt="Imagem perfil Arthur Gutierrez"/>
+</div>
  <br/>
  <sub><b>Arthur Gutierrez</b></sub>
 </a> <a href="www.linkedin.com/in/arthur-gutierrez-de-oliveira-dev2110" title="Linkedin">🚀</a><br/>
@@ -76,3 +76,83 @@ Feito por Arthur Gutierrez 👋🏽 Entre em contato!
 <br/>
 
 ![Linkedin Badge](https://img.shields.io/badge/-ArthurDev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/arthur-gutierrez-de-oliveira-dev2110)
+
+
+
+# English 
+
+
+# React Project 3D
+## 💻 Built to learn more about: react-three/fibre and react-three/dier. Libs that help you use 3D models on websites!
+Static Badge
+Netlify Status
+
+<p align="center">
+	<a href="#features"> 👉 Features - </a>
+	<a href="#Prerequisites"> 👉 Prerequisites - </a>
+	<a href="#Technologies"> 👉 Technologies - </a>
+	<a href="#Author"> 👉 Author -  </a>
+	<a href="#Learn more"> 👉 Learn more </a>
+</p>
+
+<h4 align="center"> 
+	🚧 React responsive 🚀 Under construction... 🚧
+</h4>
+
+# ✅Features
+ - [x] 3D models (.glb)
+ - [x] "Separate mesh for each 3D model
+ - [x] Rotation of the 3D models
+ - [x] Cards with messages
+ - [x] Cursor Grab and Grabbing
+ - [ ] Responsiveness
+
+# ✨Prerequisites
+
+## Install the dependencies
+$ npm install
+
+## Install the libs
+$ npm i @react-three/drei $ npm i @react-three/fiber
+
+## Install TailwindCss
+$ npm i tailwindcss
+
+## Run the application in development mode
+$ npm run dev
+
+# 🛠Technologies
+The following tools were used to build the project:
+
+- [React](https://pt-br.reactjs.org/)
+- [React-three/fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+- [Node.js](https://nodejs.org/en/)
+- [TailwindCss](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/)
+- [JS](https://vitejs.dev/](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript))
+
+# 📝Learn more
+React Three Fiber and React Three Drei are two powerful libraries that allow you to create 3D web applications using React. The choice between the two libraries depends on your needs and preferences.
+
+Tips for getting started
+
+If you're just starting out with React Three Fiber or React Three Drei, here are some tips:
+
+- Start with a tutorial or example.
+- Use the React Three Fiber Playground to experiment with different features.
+- Put your ideas on paper... I mean... in code!
+- Find out more about .GLB files
+  
+# 🧑‍💻Autor
+<a href="https://github.com/ArthurGuti/">
+<div style="border-radius: 25%;">
+  <img src="https://avatars.githubusercontent.com/u/131212175?s=400&u=ad1122209b601713ba611d911af19ade07d17c6f&v=4" width="100px" alt="Imagem perfil Arthur Gutierrez"/>
+</div>
+ <br/>
+ <sub><b>Arthur Gutierrez</b></sub>
+</a> <a href="www.linkedin.com/in/arthur-gutierrez-de-oliveira-dev2110" title="Linkedin">🚀</a><br/>
+Made by Arthur Gutierrez 👋🏽 Get in touch!
+<br/>
+
+![Linkedin Badge](https://img.shields.io/badge/-ArthurDev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/arthur-gutierrez-de-oliveira-dev2110)
+
